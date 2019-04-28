@@ -1,0 +1,173 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #F4FBFF url(../images/img01.jpg) repeat-x;
+	font-family: "黑体";
+	font-size: 12px;
+	color: #405A67;
+}
+
+
+/* Header */
+#header {
+	width: 1200px;
+	height: 150px;
+	margin: 0 auto;
+	
+}
+
+
+#logo h1 {
+	padding: 49px 20px;
+	font-weight: bold;
+	float: left;
+	margin: 0;
+	color: #FFFFFF;
+	font-size: 45px;
+}
+#search{
+	float: left;
+	padding: 58px 50px 57px 50px;
+	
+}
+#search-key{
+	height: 34px;
+	width: 300px;
+	border: none;
+}
+#search-sub{
+	height: 34px;
+	color: #FFFFFF;
+	background: #1892ed;
+	border: none;
+}
+
+/* Menu */
+
+#menu {
+	float: right;
+}
+
+#menu ul {
+	margin: 0;
+	padding: 66px 10px 20px 20px;
+	list-style: none;
+	line-height: normal;
+}
+
+#menu li {
+	display: inline;
+}
+
+#menu a {
+	padding: 0 28px 0 0;
+	text-decoration: none;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+#menu a:hover{
+	color: #405A67;
+}
+
+#menu_time{
+	/* display: block;
+	position: relative;
+	left: 410px; */
+	position:absolute;
+	margin-top:-50px;
+	margin-left:1140px;
+	color: rgb(102, 67, 105);
+	font-size: 18px;
+}
+
+
+.dl_img{
+	margin-top: -15px;
+	float: right;
+}
+
+.dl_name{
+	color: #ffffff;
+}
+
+
+#page{
+	width: 1200px;
+	height: 500px;
+	margin: 0 auto;
+	position: relative;
+	
+}
+
+#page img{
+	width: 1200px;
+}
+
+
+#footer{
+	width: 1200px;
+	height: 200px;
+	margin: 0 auto;
+}
+
+.f_left{
+	width:200px;
+	display: block;
+	float: left;
+	margin-top: 50px;
+}
+.f_center{
+	width: 650px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 150px;
+}
+.f_center ul{
+	float: left;
+	margin-right: 70px;
+	
+}
+.f_center ul li{
+	list-style: none;
+	
+}
+.f_center ul li a{
+	text-decoration: none;
+	color: #808080;
+	font-size: 12px;
+	line-height: 30px;
+}
+
+.f_center ul li a:hover{
+	color: #405A67;
+}
+
+
+.f_center ul li a h3{
+	color: #333;
+	font-size: 14px;
+	font-weight: lighter;
+}
+
+
+
+
+#end{
+	width: 1200px;
+	height: 20px;
+	margin: 0px auto;
+}
+#copyright{
+	text-align: center;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+
+#message{
+	width: 1200px;
+	margin: 0px auto;
+}
+
+
+#message_ly{
+	border: none;
+	font-size: 16px;
+	border-radius: 5px;
+	background-color: rgba(255,255,255,0.5);
+	color: #000000;
+	
+}
+#message_ly_sub{
+	background: rgba(255,255,255,0);
+}
+
+#message_date{
+	margin-top: 50px;
+}
+#message_content{
+		
+}
+
+.listcontent {
+	background-color: #FCFDEF;
+	border: 1px solid #CCCCCC;
+	margin-left: 5px;
+	width: 99%;
+}
+
+.listcontent td {
+	padding: 20px;
+}

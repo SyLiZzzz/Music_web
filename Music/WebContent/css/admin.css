@@ -1,0 +1,10 @@
+.listcontent {
+	background-color: #FCFDEF;
+	border: 1px solid #CCCCCC;
+	margin-left: 5px;
+	width: 99%;
+}
+
+.listcontent td {
+	padding: 20px;
+}

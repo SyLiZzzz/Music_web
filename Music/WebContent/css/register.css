@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+body {
+	margin: 0;
+	padding: 0;
+	background: #F4FBFF url(../images/img01.jpg) repeat-x;
+	font-family: sans-serif;
+	font-size: 12px;
+}
+#header{
+	margin:0 auto;
+	width: 954px;
+	height: 183px;
+	
+}
+
+#logo{
+	float:left;
+	width:500px;
+}
+
+#logo h1{
+	float: left;
+	color: #FFFFFF;
+	padding: 115px 0 0 140px;
+	font-weight: bold;
+}
+hr{
+	display:none;
+}
+#page {
+	height:400px;
+	width: 700px;
+	margin: 0 auto;
+	background: #FFFFFF url(../images/img02.jpg) repeat-y;
+	background-color:  #FFFFFF;
+}
